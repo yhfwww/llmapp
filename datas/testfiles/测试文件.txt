@@ -1,0 +1,1 @@
+这个警告信息表示在您的 requirements.txt 文件中，行结束符（Line Feed, LF）将会在下次 Git 操作时被替换为回车换行符（Carriage Return + Line Feed, CRLF）。这是因为 Git 在 Windows 系统上默认使用 CRLF 作为行结束符，而在 Unix/Linux 系统上则使用 LF。
