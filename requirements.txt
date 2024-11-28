@@ -2,3 +2,7 @@ langchain
 langchain-community						
 langchain-openai	
 llama-cpp-python
+pypdf
+pymupdf
+pdfminer.six
+pdfplumber
